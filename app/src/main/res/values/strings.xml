@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RomeDigits</string>
+    <string name="stopButt">Stop</string>
+    <string name="startButt">Start</string>
+</resources>

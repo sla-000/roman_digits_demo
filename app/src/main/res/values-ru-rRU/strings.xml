@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Римские числа</string>
+    <string name="stopButt">Стоп</string>
+    <string name="startButt">Старт</string>
+</resources>
